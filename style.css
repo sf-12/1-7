@@ -1,0 +1,44 @@
+/* リセットCSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.visual {
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-position: bottom;
+  background-size: cover;
+  padding-top: 20px;
+  padding-left: 20px;
+  color: #6f6f6f;
+}
+
+main {
+  width: 840px;
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.content1 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #8f8f8f;
+}
+.content2 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #8f8f8f;
+}
+.content3 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #8f8f8f;
+}
+.content4 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #8f8f8f;
+}
